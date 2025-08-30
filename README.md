@@ -20,4 +20,11 @@ Because github doesn't allow uploading files over 25MB, you will need to downloa
 the dataset separately. It can be found here:
 https://www.kaggle.com/datasets/saurabhshahane/fake-news-classification
 
+You can run this code locally with the dataset downloaded, however
+I recommend running it on a cloud notebook like Google Colab,
+as when testing on an M1 Macbook Air training times were significantly longer. 
+(If you run on Colab, make sure to have the runtime type set to T4 GPU)
+
+
+
 
